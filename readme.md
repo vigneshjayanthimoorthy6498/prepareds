@@ -12,8 +12,8 @@ Week 2:
 -------
     Week2 include solving problem with patter like searching, sort and little bit of Sliding window
     1. Finding first and last position of the given target,
-        - This problem include basic binary search and to find position use target
-          and last use target + 1 if both are not equal return them, or else return {-1, -1}
+        - This problem include basic binary search and to find first position use target
+          and last position use target + 1 if both are not equal return them left and right -1, or else return {-1, -1}
 
 
 
