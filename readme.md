@@ -11,8 +11,7 @@ This Repo Contain the all the problem which I solved and add inline commands
 Week 2:
 -------
 
-###
-Searching
+### Searching
 
     Week2 includes solving problems with patterns like searching, sorting and a little bit of Sliding window
     1. Finding first and last position of the given target,
@@ -58,6 +57,32 @@ Searching
           else left = mid + 1  the element is present in right
 
 
+---
+Week3
+-------
+Need to do.
+
+---
+Week4
+-------
+Need to do.
+
+-----
+
+Week5
+---
+### SlidingWindow
+
+    1. The key take for Sliding window approach is using two pointer left, right 
+    the right is always moving once give condition is met, the window size will
+    start shrink by moving the left pointer.
+    (right - left + 1) is key problem 
+    
+    2. The second the number of subArray, in sliding window it very hard track size
+    we need to use atMost function, the sliding window logical goes inside this function
+    the calculation happens using differnce of k and k - 1
+
+    
 
 
 
